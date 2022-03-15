@@ -7,5 +7,6 @@
 2. Unpacked to any directory  
 3. Run the file Square_1.exe (worked even in linux on wine)
 4. Push the button "Пуск" to start program  
-5. Read the instruction "інструкція.doc" how to do any things  
+5. For running press the arrow keys on a additional keyboard
+6. Read the instruction "інструкція.doc" for more actions  
 
